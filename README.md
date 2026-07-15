@@ -66,6 +66,42 @@ The following data quality checks were performed:
 
 ---
 
+## Visualizations
+
+### Total Rides by Member Type
+
+![Total Rides](images/total_rides.png)
+
+### Average Ride Duration
+
+![Average Ride Duration](images/average_duration.png)
+
+### Bike Type Preference
+
+![Bike Type Preference](images/bike_type.png)
+
+### Weekly Ridership
+
+![Weekly Ridership](images/weekday_rides.png)
+
+### Monthly Ridership - Annual Members
+
+![Monthly Members](images/monthly_members.png)
+
+### Monthly Ridership - Casual Riders
+
+![Monthly Casual](images/monthly_casual.png)
+
+### Hourly Ridership - Annual Members
+
+![Hourly Members](images/hourly_members.png)
+
+### Top 10 Most Popular Start Stations for Casual Riders
+
+![Top Stations](images/top10_stations.png)
+
+---
+
 ## Repository Structure
 
 ```text
