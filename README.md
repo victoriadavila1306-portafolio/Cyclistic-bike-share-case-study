@@ -96,6 +96,10 @@ The following data quality checks were performed:
 
 ![Hourly Members](images/hourly_members.png)
 
+### Hourly Ridership - Casual Riders
+
+![Hourly Casual](images/hourly_casual.png)
+
 ### Top 10 Most Popular Start Stations for Casual Riders
 
 ![Top Stations](images/top10_stations.png)
