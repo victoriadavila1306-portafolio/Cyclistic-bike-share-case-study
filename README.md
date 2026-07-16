@@ -117,17 +117,18 @@ Cyclistic-bike-share-case-study
 │
 ├── README.md
 ├── LICENSE
+├── Cyclistic_Case_Study_Report.pdf
 ├── sql/
 │   └── analysis_queries.sql
-└── images/
-    ├── total_rides.png
-    ├── average_duration.png
-    ├── bike_type.png
-    ├── weekday_rides.png
-    ├── monthly_members.png
-    ├── monthly_casual.png
-    ├── hourly_members.png
-    └── top10_stations.png
+├── images/
+│   ├── total_rides.png
+│   ├── average_duration.png
+│   ├── bike_type.png
+│   ├── weekday_rides.png
+│   ├── monthly_members.png
+│   ├── monthly_casual.png
+│   ├── hourly_members.png
+│   └── top10_stations.png
 ```
 ---
 
