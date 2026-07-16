@@ -6,6 +6,10 @@ This project was completed as part of the Google Data Analytics Professional Cer
 
 The objective of this analysis is to understand how annual members and casual riders use Cyclistic bikes differently and provide data-driven recommendations to increase annual memberships.
 
+## Full Report
+
+📄 [View the complete Case Study Report](case_study_report.pdf)
+
 ---
 
 ## Business Task
